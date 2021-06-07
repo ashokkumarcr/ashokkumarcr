@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashokkumarcr
-- 👀 I’m interested in developing DevOPS automaation scripts, that helps the work a lot more easier
+- 👀 I’m interested in developing DevOPS automation scripts and tools using Python and Shell scripting, that helps the work a lot more easier
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me -> ashokkumar2468@gmail.com
