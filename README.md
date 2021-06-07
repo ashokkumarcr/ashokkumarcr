@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ashokkumarcr
+- 👀 I’m interested in developing DevOPS automaation scripts, that helps the work a lot more easier
+- 🌱 I’m currently learning DevOps tools
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me -> ashokkumar2468@gmail.com
+
+<!---
+ashokkumarcr/ashokkumarcr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
